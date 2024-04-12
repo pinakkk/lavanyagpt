@@ -1,6 +1,6 @@
 # Meet Lavanya, Your Sassy AI Sidekick
 
-Forget those boring, predictable bots. Lavanya is here to shake up your Discord server with her Gen-Z sass and a side of Delhi attitude. Inspired by the viral "Baby See Hu Main South Delhi Ki"  song, she brings a whole new level of fun and personality to your Discord experience.
+Forget those boring, predictable bots. Lavanya is here to shake up your Discord server with her Gen-Z sass and a side of Delhi attitude. Inspired by the viral "Baby See Hu Main South Delhi Ki"  song, she brings a whole new level of fun and personality to your Discord experience. I made lavanyaGPT for you! 
 
 ## What Makes Lavanya So Cool?
 
@@ -48,7 +48,7 @@ Forget those boring, predictable bots. Lavanya is here to shake up your Discord 
 - Voice Message capabilities
 
 ## Contributing & Acknowledgement
-I wanna thank my friend [Karan](https://github.com/pinakkk) for his idea to implement this.
+I wanna thank my friend [Karan](https://github.com/pinakkk) for his idea.
 
 As Lavanya is a fun and experimental project, we welcome contributions from the community. If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/pinakkk/lavanyagpt-discord).
 
