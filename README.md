@@ -1,4 +1,4 @@
-##Meet Lavanya, Your Sassy AI Sidekick
+#Meet Lavanya, Your Sassy AI Sidekick
 
 Forget those boring, predictable bots. Lavanya is here to shake up your Discord server with her Gen-Z sass and a side of Delhi attitude. Inspired by the viral "Baby See Hu Main South Delhi Ki"  song, she brings a whole new level of fun and personality to your Discord experience.
 
