@@ -46,6 +46,7 @@ Forget those boring, predictable bots. Lavanya is here to shake up your Discord 
 - Text to image
 - Other personalities based on user preferences
 - Voice Message capabilities
+- Searching fo stock images & videos 
 
 ## Contributing & Acknowledgement
 I wanna thank my friend [Karan](https://github.com/pinakkk) for his idea.
