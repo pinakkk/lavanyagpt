@@ -7,7 +7,6 @@ import discord
 async def on_message(message):
     if message.content.startswith('!downloadvideo'):
         url = message.content.split(' ')[1] 
-        
         try: 
             yt = y=Youtube(url)
             video = yt.streams.get_highest_resolution()
