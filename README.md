@@ -39,8 +39,18 @@ Forget those boring, predictable bots. Lavanya is here to shake up your Discord 
 - !inspire: Feeling unmotivated? Lavanya's got a quote to get you back on track.
 - !downloadvideo [YouTube URL]: (Requires pytube library) Lavanya can download the video and share it with the channel (use responsibly!).
 
+## Features To Be Added Soon 
+- Storing chat history and session
+- Language translation
+- Image processing
+- Text to image
+- Other personalities based on user preferences
+- Voice Message capabilities
+
 ## Contributing & Acknowledgement
 I wanna thank my friend [Karan](https://github.com/pinakkk) for his idea to implement this.
 
 As Lavanya is a fun and experimental project, we welcome contributions from the community. If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/pinakkk/lavanyagpt-discord).
+
+
    
